@@ -1,2 +1,2 @@
 # PROSTOTAK, vsyakoe
-proverk
+prover
