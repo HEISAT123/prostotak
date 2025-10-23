@@ -1,2 +1,2 @@
 # PROSTOTAK, vsyakoe
-pr
+p
